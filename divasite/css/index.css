@@ -1,0 +1,32 @@
+p {
+  text-align: justify;
+  text-indent: 50px;
+}
+
+img {
+  align: center;
+}
+
+body {
+  background-image: url("background_img.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+  height: 100%;
+}
+
+nav#main_menu {
+  text-align: justify;
+}
+nav#main_menu a {
+  text-decoration: none;
+  color: #666666;
+}
+nav#main_menu h1 {
+  color: #000000;
+}
+nav#main_menu a:hover {
+  color: #000000;
+  text-decoration: underline;
+}
